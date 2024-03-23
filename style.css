@@ -8,3 +8,11 @@ header {
 body {
     text-align: center;
 }
+
+h5 {
+    padding-top: 10px;
+}
+
+.gif {
+    border-radius: 5%;
+}
